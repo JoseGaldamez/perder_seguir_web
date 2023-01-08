@@ -919,11 +919,9 @@ justify-content: center;
 .title_content p{
      font-size: 1.3rem;
      color: #000;
-     text-align: justify;
      margin-bottom: 30px;
      font-weight: 300;
      line-height: 32px;
-     padding: 0px 20px;
 }
 
 .title_content h2{
